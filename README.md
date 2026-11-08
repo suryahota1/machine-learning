@@ -10,7 +10,7 @@ The objective of this project is to build, evaluate, and deploy a robust multi-c
 - **Target Variable:** `Class` (7-class multi-class classification).
 
 ## GitHub Repository Link
-[https://github.com/your-username/dry_beans_classifier](https://github.com/your-username/dry_beans_classifier)
+[https://github.com/suryahota1/machine-learning/tree/master](https://github.com/suryahota1/machine-learning/tree/master)
 
 ---
 
